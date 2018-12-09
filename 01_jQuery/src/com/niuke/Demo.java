@@ -1,6 +1,7 @@
 package com.niuke;
 
 public class Demo {
+	/**/
 	class Super{
 		int flag=1;
 		public Super() {
